@@ -78,8 +78,8 @@ MONGODB_COLLECTION = "av_item"
 MONGODB_USERNAME = "" # Change in prod
 MONGODB_PASSWORD = "" # Change in prod
 
-FROM_USERNAME="rwatermoon"
-FROM_PASSWORD="531218"
+FROM_USERNAME=""
+FROM_PASSWORD=""
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
